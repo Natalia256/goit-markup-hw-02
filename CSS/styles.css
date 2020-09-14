@@ -1,0 +1,134 @@
+body {
+    font-family: "Roboto" sans-serif;
+    font-style: normal;
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none
+}
+.address {
+    font-style: normal;
+}
+.navigation-list-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;    
+    color: #212121;
+}
+.header-mail-link, .header-tel-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.navigation-list-link:hover,
+.navigation-list-link:focus,
+.header-mail-link:hover, 
+.header-mail-link:focus,
+.header-tel-link:hover,
+.header-tel-link:focus{
+    color: #2196F3;
+}
+.logo{
+font-family: "Raleway", sans-serif;
+font-style: 400;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.192;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.loogo-s{
+    color: #000000;
+}
+
+.efect-h {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.364;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+/*
+color: #FFFFFF;*/
+}
+.efect-button {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.875;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    /* color: #FFFFFF;*/
+    
+}
+.abiliy-title{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+.ability-info{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.714;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.167;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.development-team-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.188;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.development-team-prof{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.188;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+
+}
+/*=====Foter=====*/
+
+.footer-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #212121;
+   /* color: #FFFFFF;*/
+}
+/*======Portfolio=====*/
+.portfolio-name{
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.portfolio-prof{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
